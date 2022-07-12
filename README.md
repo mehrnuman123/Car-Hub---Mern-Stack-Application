@@ -1,5 +1,4 @@
-Cars-Hub-Mern-App
-
+# Car-Hub---Mern-Stack-Application
 ## Details about app:
 
 car-management-system-Mern-App-
@@ -77,4 +76,4 @@ SMTP_FROM_NAME =Cars-Hub
     "redux-devtools-extension": "^2.13.9",
     "redux-thunk": "^2.4.1",
     "web-vitals": "^2.1.4"
-# Car-Hub---Mern-Stack-Application
+
